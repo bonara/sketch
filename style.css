@@ -1,0 +1,23 @@
+body{
+  text-align:center;
+  margin:0;
+  padding:0;
+}
+#main{
+  height: 900px;
+  width: 900px;
+  border:1px solid white;
+  margin:0 auto;
+  padding:0;
+}
+
+.theDiv{
+  box-sizing: border-box;
+  border: 1px solid white;
+  background-color:gray;
+  display:block;
+  float:left;
+  margin:0;
+  padding:0;
+  
+}
